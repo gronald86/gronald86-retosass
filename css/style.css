@@ -1,0 +1,23 @@
+header {
+  font-family: fantasy;
+  color: crimson;
+  overflow: hidden;
+}
+
+body {
+  font-style: oblique;
+  text-align: center;
+  text-decoration-color: crimson;
+  background-color: #f5ffe1;
+}
+
+footer {
+  background-color: black;
+}
+@media screen and (max-width: 400px) {
+  footer {
+    background-color: black;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

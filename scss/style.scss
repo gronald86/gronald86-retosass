@@ -1,0 +1,34 @@
+
+header{
+
+    font-family: fantasy;
+    color: crimson;
+    overflow: hidden;
+
+}
+
+
+body{
+
+    font-style: oblique;
+    text-align: center;
+    text-decoration-color: crimson;
+    background-color: rgb(245, 255, 225);
+
+}
+
+
+
+footer{
+
+    background-color: black;
+
+
+    @media screen and (max-width: 400px) {
+
+        background-color: black;
+
+        
+    }
+
+}
